@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <style>
-    body { font-family: Arial; background:#0f172a; color:white; margin:0; }
+    body { font-family: Arial; background:#0f172a; color:BLACK; margin:0; }
     header { padding:15px; text-align:center; background:linear-gradient(45deg,#3b82f6,#9333ea); font-size:22px; }
     table { width:95%; margin:20px auto; border-collapse: collapse; }
     th, td { border:1px solid #ccc; padding:8px; text-align:center; font-size:12px; }
